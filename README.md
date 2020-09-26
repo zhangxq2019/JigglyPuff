@@ -1,5 +1,5 @@
 # 胖丁唱歌
-
+预览链接：https://zhangxq2019.github.io/JigglyPuff/Jigglypuff.html
 ## 想法来源
 在codepen上看到pikachu这个作品
 
@@ -9,9 +9,9 @@
 
 有了胖丁唱歌的想法，因为对胖丁记忆比较深刻，而且她圆润相对容易一点
 
-## 图片
+## 参考图片
 
-参考图片：https://p3.pstatp.com/large/pgc-image/1e8bf88d4c584bf68fb79ebf83732791
+https://p3.pstatp.com/large/pgc-image/1e8bf88d4c584bf68fb79ebf83732791
 
 ## 重点
 - 对position的运用
