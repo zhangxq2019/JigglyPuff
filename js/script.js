@@ -5,7 +5,6 @@ document.querySelector('.mouth').addEventListener('click', function () {
     document.querySelector('.music-note-one').classList.toggle('music-note');
     document.querySelector('.music-note-two').classList.toggle('music-note');
     if(!isPlaying){
-        audio.load()
         audio.play()
         isPlaying = true
         // document.getElementsByTagName("body")[0].appendChild(audio);
