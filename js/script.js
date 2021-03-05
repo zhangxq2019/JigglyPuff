@@ -5,7 +5,11 @@ document.querySelector('.mouth').addEventListener('click', function () {
     document.querySelector('.music-note-one').classList.toggle('music-note');
     document.querySelector('.music-note-two').classList.toggle('music-note');
     if(!isPlaying){
-        audio.play()
+        audio.load()
+        setTimeout(function(){
+            audio.play()
+        },200)
+
         isPlaying = true
         // document.getElementsByTagName("body")[0].appendChild(audio);
     }else{
